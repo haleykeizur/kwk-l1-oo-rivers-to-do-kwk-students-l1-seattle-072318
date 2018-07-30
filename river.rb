@@ -5,4 +5,6 @@ class River
     @countries = countries
     @discharge = discharge
   end 
+  
+  
 end 
