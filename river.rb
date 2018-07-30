@@ -5,6 +5,7 @@ class River
     @countries = countries
     @discharge = discharge
   end 
-  
+  def name
+    @name = name
   
 end 
